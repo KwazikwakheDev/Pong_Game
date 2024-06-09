@@ -18,11 +18,11 @@ To start the game, simply run the game.py. Two players can control the paddles t
 ## Controls
 
 ### Player 1:
-Move paddle up: W key
-Move paddle down: S key
+-Move paddle up: W key
+-Move paddle down: S key
 
 ### Player 2:
-Move paddle up: Up Arrow key
-Move paddle down: Down Arrow key
+-Move paddle up: Up Arrow key
+-Move paddle down: Down Arrow key
 
 I am yet to add other functionalities to the game
